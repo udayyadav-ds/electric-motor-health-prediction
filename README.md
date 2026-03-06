@@ -1,2 +1,23 @@
-# electric-motor-health-prediction
-The Electric Motor Health Prediction dataset contains operational and sensor data collected from electric motors. The purpose of the dataset is to analyze motor performance and build machine learning models that can predict the health condition or potential faults in electric motors.  
+\# Electric Motor Health Prediction
+
+This project predicts electric motor health status using machine learning.
+
+Dataset
+Electric Motor Health & Performance Dataset
+
+Tech Stack
+Python
+Pandas
+Scikit-learn
+
+Workflow
+- Data preprocessing
+- Feature engineering
+- Model training
+- Model evaluation
+
+Model
+Random Forest Classifier
+
+Goal
+Predict motor failure before it happens.
